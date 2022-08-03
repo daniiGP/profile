@@ -6,11 +6,11 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=daniigp&label=Profile%20views&color=0e75b6&style=flat" alt="daniigp" /> 
 </p>
-- 🔭 I’m currently working on [Fivem Web Admin Panel](https://github.com/daniiGP/Fivem-Admin-Panel)<br>
+- 🔭 I’m currently working on Fivem Web Admin Panel<br>
 - 🌱 I’m currently learning **C++, GO**<br>
 - 👯 I’m looking to collaborate on **Unity / Unreal Engine Games**<br>
-- 🤝 I’m looking for help with [C++ Project](https://github.com/daniigp/PhasBypassReworked)<br>
-- 👨‍💻 All of my projects are available at [https://daniigp.github.io/portfolio/](https://daniigp.github.io/portfolio/)<br>
+- 🤝 I’m looking for help with C++ Project<br>
+- 👨‍💻 All of my projects are available at https://daniigp.github.io/portfolio/<br>
 - 📫 How to reach me **dani.dcshop.gg@gmail.com**<br>
 <h3 align="left">Connect with me:
 </h3>
