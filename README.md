@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **C++, GO**<br>
 - 👯 I’m looking to collaborate on **Unity / Unreal Engine Games**<br>
 - 🤝 I’m looking for help with C++ Project<br>
-- 👨‍💻 All of my projects are available at https://daniigp.github.io/portfolio/<br>
+- 👨‍💻 All of my projects are available at https://DaniGP17.github.io/portfolio/<br>
 - 📫 How to reach me **dani.dcshop.gg@gmail.com**<br>
 <h3 align="left">Connect with me:
 </h3>
