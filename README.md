@@ -6,12 +6,12 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=daniigp&label=Profile%20views&color=0e75b6&style=flat" alt="daniigp" /> 
 </p>
-- 🔭 I’m currently working on [Fivem Web Admin Panel](https://github.com/daniigp/Fivem-Admin-Panel)
-- 🌱 I’m currently learning **C++, GO**
-- 👯 I’m looking to collaborate on **Unity / Unreal Engine Games**
-- 🤝 I’m looking for help with [C++ Project](https://github.com/daniigp/PhasBypassReworked)
-- 👨‍💻 All of my projects are available at [https://daniigp.github.io/portfolio/](https://daniigp.github.io/portfolio/)
-- 📫 How to reach me **dani.dcshop.gg@gmail.com**
+- 🔭 I’m currently working on [Fivem Web Admin Panel](https://github.com/daniiGP/Fivem-Admin-Panel)<br>
+- 🌱 I’m currently learning **C++, GO**<br>
+- 👯 I’m looking to collaborate on **Unity / Unreal Engine Games**<br>
+- 🤝 I’m looking for help with [C++ Project](https://github.com/daniigp/PhasBypassReworked)<br>
+- 👨‍💻 All of my projects are available at [https://daniigp.github.io/portfolio/](https://daniigp.github.io/portfolio/)<br>
+- 📫 How to reach me **dani.dcshop.gg@gmail.com**<br>
 <h3 align="left">Connect with me:
 </h3>
 <p align="left">
@@ -95,9 +95,4 @@
 <p>
   <img align="left" style="width: 414px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniigp&show_icons=true&locale=en&layout=compact" alt="daniigp" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniigp&show_icons=true&locale=en" alt="daniigp" />
-</p>
-<p style="position:relative">
-  <center>
-    <img style="margin:auto;position:absolute;left:0;right:0;top:0;bottom:0;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniigp&" alt="daniigp" />
-  </center>
 </p>
