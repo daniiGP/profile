@@ -3,19 +3,18 @@
 <h3 align="center">A passionate backend developer from Spain</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DaniGP17&label=Profile%20views&color=0e75b6&style=flat" alt="daniigp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniigp&label=Profile%20views&color=0e75b6&style=flat" alt="daniigp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DaniGP17" alt="DaniGP17" /></a> </p>
 
-- 🔭 I’m currently working on [Fivem Web Admin Panel](https://github.com/DaniGP17/Fivem-Admin-Panel)
+- 🔭 I’m currently working on [Fivem Web Admin Panel](https://github.com/daniigp/Fivem-Admin-Panel)
 
 - 🌱 I’m currently learning **C++, GO**
 
 - 👯 I’m looking to collaborate on **Unity / Unreal Engine Games**
 
-- 🤝 I’m looking for help with [C++ Project](https://github.com/DaniGP17/PhasBypassReworked)
+- 🤝 I’m looking for help with [C++ Project](https://github.com/daniigp/PhasBypassReworked)
 
-- 👨‍💻 All of my projects are available at [https://DaniGP17.github.io/portfolio/](https://DaniGP17.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://daniigp.github.io/portfolio/](https://daniigp.github.io/portfolio/)
 
 - 📫 How to reach me **dani.dcshop.gg@gmail.com**
 
