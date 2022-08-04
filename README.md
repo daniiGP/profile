@@ -7,11 +7,12 @@
   <img src="https://komarev.com/ghpvc/?username=daniigp&label=Profile%20views&color=0e75b6&style=flat" alt="daniigp" /> 
 </p>
 - 🔭 I’m currently working on Fivem Web Admin Panel<br>
-- 🌱 I’m currently learning **C++, GO**<br>
-- 👯 I’m looking to collaborate on **Unity / Unreal Engine Games**<br>
+- 🌱 I’m currently learning C++, GO
+<br>
+- 👯 I’m looking to collaborate on Unity / Unreal Engine Games<br>
 - 🤝 I’m looking for help with C++ Project<br>
 - 👨‍💻 All of my projects are available at https://DaniGP17.github.io/portfolio/<br>
-- 📫 How to reach me **dani.dcshop.gg@gmail.com**<br>
+- 📫 How to reach me dani.dcshop.gg@gmail.com<br>
 <h3 align="left">Connect with me:
 </h3>
 <p align="left">
@@ -93,6 +94,6 @@
   </a> 
 </p>
 <p>
-  <img align="left" style="width: 414px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniigp&show_icons=true&locale=en&layout=compact" alt="daniigp" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniigp&show_icons=true&locale=en" alt="daniigp" />
+  <img align="left" style="width: 414px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaniGP17&show_icons=true&locale=en&layout=compact" alt="daniigp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaniGP17&show_icons=true&locale=en" alt="daniigp" />
 </p>
