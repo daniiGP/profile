@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dani GP
+<h1 align="center">Hi 👋, I'm Daniel GP
 </h1>
 <h3 align="center">A passionate backend developer from Spain
 </h3>
@@ -6,13 +6,12 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=daniigp&label=Profile%20views&color=0e75b6&style=flat" alt="daniigp" /> 
 </p>
-- 🔭 I’m currently working on Fivem Web Admin Panel<br>
+- 🔭 I’m currently working on REUnpacker(Tool To Unpack Resident Evil Pak Files)<br>
 - 🌱 I’m currently learning C#
 <br>
-- 👯 I’m looking to collaborate on Unity / Unreal Engine Games<br>
-- 🤝 I’m looking for help with C# Project<br>
+- 👯 I’m looking to collaborate on C# projects.<br>
 - 📫 How to reach me dani.dcshop.gg@gmail.com<br>
-<h3 align="left">Connect with me:
+<h3 align="left">My discord server:
 </h3>
 <p align="left">
   <a href="https://discord.gg/5J7hUhRR8q" target="blank">
