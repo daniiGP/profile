@@ -2,9 +2,9 @@
 </h1>
 <h3 align="center">A passionate backend developer from Spain
 </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=DaniGP17&label=Profile%20views&color=0e75b6&style=flat" alt="daniigp" /> 
+  <img src="https://komarev.com/ghpvc/?username=daniigp&label=Profile%20views&color=0e75b6&style=flat" alt="daniigp" /> 
 </p>
 - 🔭 I’m currently working on Fivem Web Admin Panel<br>
 - 🌱 I’m currently learning C#
