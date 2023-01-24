@@ -70,5 +70,5 @@
 </p>
 <p>
   <img align="left" style="width: 414px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniGP17&show_icons=true&theme=radical" alt="DaniGP17" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaniGP17&show_icons=true&locale=en" alt="daniigp" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api?username=DaniGP17&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api?username=DaniGP17&count_private=true&show_icons=true&theme=radical)" alt="DaniGP17" />
 </p>
