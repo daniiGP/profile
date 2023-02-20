@@ -6,7 +6,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=daniigp&label=Profile%20views&color=0e75b6&style=flat" alt="daniigp" /> 
 </p>
-- 🔭 I’m currently working on REUnpacker(Tool To Unpack Resident Evil Pak Files)<br>
+- 🔭 I’m currently working on REUnpacker(Tool To Unpack .Pak Files)<br>
 - 🌱 I’m currently learning C#
 <br>
 - 👯 I’m looking to collaborate on C# projects.<br>
