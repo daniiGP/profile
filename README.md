@@ -6,12 +6,12 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=daniigp&label=Profile%20views&color=0e75b6&style=flat" alt="daniigp" /> 
 </p>
-- 🔭 I’m currently working on fivem scripts<br>
-- 🌱 I’m currently learning C#
+- 🔭 I’m currently working on my own video game.<br>
+- 🌱 I’m currently improving my skills in C#.
 <br>
-- 👯 I’m looking to collaborate on C# projects.<br>
-- 📫 How to reach me dani.dcshop.gg@gmail.com<br>
-<h3 align="left">My discord server:
+- 👯 I’m not looking to collaborate right now.<br>
+- 📫 To reach me, through  discord: danielgp<br>
+<h3 align="left">My Modding Discord Server:
 </h3>
 <p align="left">
   <a href="https://discord.gg/5J7hUhRR8q" target="blank">
@@ -34,7 +34,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+    <img src="https://marcas-logos.net/wp-content/uploads/2020/11/Unity-logo.png" alt="unity" width="40" height="40"/> 
   </a> 
 </p>
 <p>
